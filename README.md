@@ -1,6 +1,6 @@
-# name of non-profit
+# MUCH HOPE
 
-{One sentence description of the project}
+{An organization helping the homeless people in San Jose, CA area}
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@
 
 ### Purpose
 
-{Short paragraph description of the non-profit mission and the purpose of this project. Who will this project help, why is it necessary. Impact of the project.}
+{Like most metropolitan areas, San Jose California has a large homeless population. This under-served segment of the community has a continuing need for food, clothing, personal hygiene materials, some form of shelter, and Christian love. The dedicated staff of Much Hope endeavors to provide for the physical needs of the homeless community by purchasing needed materials with self-contributed funds. Emotional and spiritual needs are addressed by conversation and – whenever possible – prayer with each homeless person. The needs of the homeless far exceed the financial resources of the Much Hope staff. A contribution will increase the scope and effectiveness of this important ministry.}
 
 ### Team
 
@@ -21,7 +21,7 @@ The {non-profit name} team consists of {#} Cal Poly students. Over the course of
 
 - [First Last](https://www.linkedin.com/) - Project Manager
 - [First Last](https://www.linkedin.com/) - Designer
-- [First Last](https://www.linkedin.com/) - Tech Lead
+- [Oscar Gomez](hhtps://www.linkedin.com/in/oscar-gomez2026) - Tech Lead
 - [First Last](https://www.linkedin.com/) - Tech Lead
 - [First Last](https://www.linkedin.com/) - Software Developer
 
